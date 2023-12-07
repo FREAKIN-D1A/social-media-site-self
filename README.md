@@ -1,11 +1,11 @@
 console.log("searchQuery +=+=+=+==+>>>");
 console.log("searchQuery);
 
-=================================================================================================
+=============================
 
 # APP_URL:
 
-=================================================================================================
+=============================
 
 # Git first upload:
 
@@ -28,16 +28,20 @@ git push -u origin main
 
 ```
 
-=================================================================================================
+=================================
 
 # Git upload:
 
+```bash
+
 git add . &&
 git status &&
-git commit -m "commit : 00.01 " &&
+git commit -m "commit : 00.02 " &&
 git push -u origin main
 
-=================================================================================================
+
+
+```
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
