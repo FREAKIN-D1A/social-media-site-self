@@ -9,10 +9,15 @@ console.log("searchQuery);
 
 # Git first upload:
 
+```bash
 git init
+
 git add .
+
 git status
+
 git commit -m "0th commit"
+
 git branch -M main
 
 <!-- git remote add origin LINK -->
@@ -20,13 +25,16 @@ git branch -M main
 git remote add origin git@github.com:FREAKIN-D1A/social-media-site-self.git
 git push -u origin main
 
+
+```
+
 =================================================================================================
 
 # Git upload:
 
 git add . &&
 git status &&
-git commit -m "commit : 01 " &&
+git commit -m "commit : 00.01 " &&
 git push -u origin main
 
 =================================================================================================
